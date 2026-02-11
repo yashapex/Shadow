@@ -34,8 +34,9 @@ spring:
             initialize-schema: always
             table-name: chat_memory
   datasource:
-    url: jdbc:postgresql://postgres:rxskQjRtALTxcSYLZDRGExKudNOzdecF@postgres.railway.internal:5432/railway
+    url: jdbc:postgresql://${PGHOST}:${PGPORT}/${PGDATABASE}
     
+    # ⚡ EXPLICITLY SET CREDENTIALS
     username: ${PGUSER}
     password: ${PGPASSWORD}
     driver-class-name: org.postgresql.Driver
