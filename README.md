@@ -6,6 +6,8 @@
 
 **Where Human Intuition Meets Machine Precision**
 
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Try_Shadow_Now-FF0000?style=for-the-badge&logo=vercel&logoColor=white)](https://shadow-frontend-seven.vercel.app/)
+
 [![Java](https://img.shields.io/badge/Java-21_LTS-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.org/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Spring AI](https://img.shields.io/badge/Spring_AI-Latest-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-ai)
@@ -23,11 +25,22 @@
 
 ---
 
-[Features](#-features) • [Architecture](#-architecture) • [Tech Stack](#-tech-stack) • [Quick Start](#-quick-start) • [Documentation](#-documentation)
+[Live Demo](#-live-demo--credentials) • [Features](#-features) • [Architecture](#-architecture) • [Tech Stack](#-tech-stack) • [Quick Start](#-quick-start) • [Documentation](#-documentation)
 
 ---
 
 </div>
+
+## 🌐 Live Demo & Credentials
+
+### **👉 [Click Here to Access Shadow Live](https://shadow-frontend-seven.vercel.app/)**
+
+> **⚠️ IMPORTANT FOR RECRUITER SIGNUP**
+> To test the Recruiter Dashboard, you must select "Recruiter" during signup and enter the following Admin Secret:
+>
+> **Recruiter Secret:** `HACKATHON_ADMIN_2026`
+
+---
 
 ## 🎯 Executive Summary
 
