@@ -46,7 +46,7 @@ public class WebSecurityConfig {
         // ⚡ IMPORTANT: Replace this with your ACTUAL frontend URL.
         // The error log said your origin is 'http://localhost:8080', so we add that.
         // We also add 'http://localhost:5173' (default Vite port) just in case.
-        configuration.setAllowedOrigins(List.of("http://localhost:8080", "http://localhost:5173", "http://localhost:8081"));
+        configuration.setAllowedOrigins(List.of("http://localhost:8080", "http://localhost:5173", "http://localhost:8081", frontendUrl));
         configuration.setAllowedMethods(List.of("GET", "POST", "PUT", "DELETE", "OPTIONS", "PATCH"));
         configuration.setAllowedHeaders(List.of("Authorization", "Content-Type"));
         configuration.setAllowCredentials(true); // ⚡ This fixes the error
