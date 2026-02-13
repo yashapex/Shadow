@@ -16,7 +16,7 @@ spring:
         transcription:
           model: whisper-1
       chat:
-        model: gpt-5
+        model: gpt-4o-mini
         temperature: 0.4
       embedding:
         options:
