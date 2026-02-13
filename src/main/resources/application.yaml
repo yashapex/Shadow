@@ -1,6 +1,6 @@
 server:
   address: 0.0.0.0
-  port: ${PORT:8080}  # <--- ADD THIS LINE
+  port: ${PORT:8080}
 spring:
   application:
     name: shadow-assistant
@@ -16,8 +16,8 @@ spring:
         transcription:
           model: whisper-1
       chat:
-        model: gpt-4o-mini
-        temperature: 0.8
+        model: gpt-5
+        temperature: 0.4
       embedding:
         options:
           model: text-embedding-3-small
